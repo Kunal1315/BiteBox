@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Sekuya display" serif;
 }
 
 nav{
@@ -42,6 +43,6 @@ nav li:last-child a:hover{
     color: black;
 }
 
-nav a.active{
+.active{
     color: red;
 }
