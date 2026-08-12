@@ -60,6 +60,21 @@ nav li:last-child a:hover{
     background: red;
 }
 
+.video-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    gap: 40px;
+}
+.video-text{
+    flex: 1;
+}
+
+.video-box{
+    flex: 1;
+}
+
 .video-box video {
     width: 30%;
     border-radius: 10px;
