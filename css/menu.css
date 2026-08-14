@@ -46,17 +46,19 @@ nav li:last-child a:hover{
 .active{
     color: red;
 }
-
+/*menu section*/
 .card{
     background: rgb(221, 186, 11);
     padding: 15px;
     border-radius: 10px;
     text-align: center;
-    box-shadow: 0 4px 10px black;
+    box-shadow: 0 4px 13px black;
+    height: 230px;
 }
 
-.card-img{
-    width: 50%;
+.card img{
+    width: 70%;
+    height: 50%;
     object-fit: cover;
 }
 
