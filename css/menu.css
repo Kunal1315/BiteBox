@@ -49,12 +49,18 @@ nav li:last-child a:hover{
 
 /*filter*/
 .category-icons{
-    display: flex;
+    display:-webkit-inline-flex;
     gap: 20px;
-    padding: 20px;
+    padding: 20px sloid red;
     overflow: auto;
-    background: white;
+    background: rgb(154, 53, 53);
     justify-content: center;
+    width:60%;
+    text-align:center;
+    align-items:flex-end;
+    align-content:center;
+    margin-right:400px;
+    margin-left: 400px;
 }
 
 .icon-box{
