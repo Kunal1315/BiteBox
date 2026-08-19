@@ -159,7 +159,7 @@ nav li:last-child a:hover{
 }
 
 .deal-card:hover{
-    transform: translate(-8px);
+    transform: translateY(-8px);
 }
 
 .red{
